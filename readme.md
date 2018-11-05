@@ -1,8 +1,9 @@
 <p align="center">Ideraos</p>
 
 
-## About Ideraos
+### This app helps you search for cities around world
 
+```
 ## /api/save/country
 Method: Post
 
@@ -129,3 +130,4 @@ Sample Response
     }
   ]
 }
+```
