@@ -7,8 +7,6 @@ use Illuminate\Http\Request;
 use DB;
 use App\Libraries\Custom;
 
-use Paystack;
-
 class ExploreController extends Controller
 {
     protected $custom;
